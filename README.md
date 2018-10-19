@@ -10,3 +10,5 @@ Brick.java
 Mario.java
 Sprite.java
 Coinblock.java
+
+You will also need to have the image files in your folder
